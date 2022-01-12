@@ -1,1 +1,1 @@
-[Troubleshoot common issues](https://github.com/microsoft/vscode-azure-account/wiki/Troubleshooting)
+Get help with common issues on the [troubleshooting page](https://github.com/microsoft/vscode-azure-account/wiki/Troubleshooting).
