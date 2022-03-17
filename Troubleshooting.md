@@ -1,3 +1,7 @@
+#### Table of contents
+
+* [Unable to list subscriptions](#setup-your-azure-account)
+
 ## Unable to list subscriptions
 
 This is a [common problem](https://github.com/microsoft/vscode-azure-account/issues/193) for users and it typically can be fixed by following the steps below:
